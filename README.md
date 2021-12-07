@@ -49,7 +49,7 @@ find out **how to set up and configure the SuluRedirectBundle** to your specific
 
 ## 💡&nbsp; Features
 
-### Importing redirects
+### Importing redirects:
 
 One of the great features of this bundle is the ability to import redirects from a CSV file.
 The most simplified file just contains two columns, `source` and `target`.
